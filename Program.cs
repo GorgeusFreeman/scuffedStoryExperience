@@ -71,6 +71,7 @@ namespace ScuffedStoryExperience
                 );
             Console.Write("[Press Enter to continue]");
             Console.ReadLine();
+            Console.Clear();
 
             string story = $"There once was a {adject1} fella named {name1}. {name1} is {verb1} in {location}.\n" +
                 $"Suddenly, {adject2} {name2} appeared in front of {name1}.\n" +
