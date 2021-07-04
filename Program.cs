@@ -72,7 +72,7 @@ namespace ScuffedStoryExperience
             Console.Write("[Press Enter to continue]");
             Console.ReadLine();
 
-            string story = $"There one was a {adject1} fella named {name1}. {name1} is {verb1} in {location}.\n" +
+            string story = $"There once was a {adject1} fella named {name1}. {name1} is {verb1} in {location}.\n" +
                 $"Suddenly, {adject2} {name2} appeared in front of {name1}.\n" +
                 $"{name2} start to {verb2} {noun1} towards {name1}.\n" +
                 $"{name1} calls da {noun2} and {verb3} {noun3} towards {name2}\n" +
