@@ -1,0 +1,16 @@
+C:\Users\nicol\Desktop\ScuffedStory\scuffedStoryExperience\bin\Debug\net5.0\ScuffedStoryExperience.exe
+C:\Users\nicol\Desktop\ScuffedStory\scuffedStoryExperience\bin\Debug\net5.0\ScuffedStoryExperience.deps.json
+C:\Users\nicol\Desktop\ScuffedStory\scuffedStoryExperience\bin\Debug\net5.0\ScuffedStoryExperience.runtimeconfig.json
+C:\Users\nicol\Desktop\ScuffedStory\scuffedStoryExperience\bin\Debug\net5.0\ScuffedStoryExperience.runtimeconfig.dev.json
+C:\Users\nicol\Desktop\ScuffedStory\scuffedStoryExperience\bin\Debug\net5.0\ScuffedStoryExperience.dll
+C:\Users\nicol\Desktop\ScuffedStory\scuffedStoryExperience\bin\Debug\net5.0\ref\ScuffedStoryExperience.dll
+C:\Users\nicol\Desktop\ScuffedStory\scuffedStoryExperience\bin\Debug\net5.0\ScuffedStoryExperience.pdb
+C:\Users\nicol\Desktop\ScuffedStory\scuffedStoryExperience\obj\Debug\net5.0\ScuffedStoryExperience.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\ScuffedStory\scuffedStoryExperience\obj\Debug\net5.0\ScuffedStoryExperience.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\ScuffedStory\scuffedStoryExperience\obj\Debug\net5.0\ScuffedStoryExperience.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\ScuffedStory\scuffedStoryExperience\obj\Debug\net5.0\ScuffedStoryExperience.AssemblyInfo.cs
+C:\Users\nicol\Desktop\ScuffedStory\scuffedStoryExperience\obj\Debug\net5.0\ScuffedStoryExperience.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\ScuffedStory\scuffedStoryExperience\obj\Debug\net5.0\ScuffedStoryExperience.dll
+C:\Users\nicol\Desktop\ScuffedStory\scuffedStoryExperience\obj\Debug\net5.0\ref\ScuffedStoryExperience.dll
+C:\Users\nicol\Desktop\ScuffedStory\scuffedStoryExperience\obj\Debug\net5.0\ScuffedStoryExperience.pdb
+C:\Users\nicol\Desktop\ScuffedStory\scuffedStoryExperience\obj\Debug\net5.0\ScuffedStoryExperience.genruntimeconfig.cache

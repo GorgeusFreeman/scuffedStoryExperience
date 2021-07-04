@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScuffedStoryExperience", "ScuffedStoryExperience.csproj", "{DE74109B-3BA8-4258-B139-71FF3A3FDBD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE74109B-3BA8-4258-B139-71FF3A3FDBD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE74109B-3BA8-4258-B139-71FF3A3FDBD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE74109B-3BA8-4258-B139-71FF3A3FDBD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE74109B-3BA8-4258-B139-71FF3A3FDBD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B99B599-F1C5-4DF7-B116-B74C73229AC7}
+	EndGlobalSection
+EndGlobal
